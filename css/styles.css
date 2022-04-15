@@ -27,9 +27,16 @@ h1{
   background-color: white;
   border-radius: 20px;
   margin: 0 auto;
-  height: 200px;
+  height: auto;
   width: 50%;
   max-width: 400px;
+  text-align: center;
+}
+
+.card img
+{
+  margin:2px;
+  border-radius: 50%;
 }
 
 .btnContainer{
